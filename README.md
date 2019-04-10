@@ -1,0 +1,1 @@
+# NGH WC String Decompiler
